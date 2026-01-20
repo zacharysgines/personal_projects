@@ -1,0 +1,1 @@
+This project was done for a club competition at Utah State University. In this project, I use a web scraper to attempt to determine the smallest number of scary movies to satisfy a list of categories provided by the professor.
